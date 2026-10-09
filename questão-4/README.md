@@ -1,6 +1,4 @@
-# Questão 02
-
-Teste automatizado com **Cypress (JavaScript)**.
+# Questão 4 — Laptop mais caro no Demoblaze
 
 ## Como executar
 ```bash
@@ -8,5 +6,3 @@ npm install
 npm test        # modo headless
 npm run open    # modo interativo
 ```
-
-Requisitos: Node.js 18+.
